@@ -1,6 +1,5 @@
-<img src="assets/obi_wan_hello_there.gif" width="100%" alt="Hello, there.">
-
 <div align="center">
+  <img src="assets/obi_wan_hello_there.gif" alt="Hello, there.">
   <h3>You can call me Est</h3>
   <p>I'm a third-year Computer Science student. Currently learning to build cross-platform apps with <b>Dart</b> & <b>Flutter.</b></p>
 </div>
@@ -10,7 +9,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="assets/icons/dart.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="assets/icons/flutter.svg" alt="flutter" width="40" height="40"/> </a>  
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="assets/icons/flutter.svg" alt="flutter" width="40" height="40"/> </a>
+<img src="assets/lost_john_travolta.gif" height="48" alt="stats">
 <p><i>*No 'Hello World' bloat here! Just the languages and frameworks I've actually used to build real things.</i></p>
 
 <br>
@@ -18,7 +18,7 @@
 <details>
   <summary><b>Stats</b></summary>
     <p align="center">
-    <img src="assets/super_secret.gif" width="100%" alt="stats">
+    <img src="assets/super_secret.gif" alt="stats">
   <details>
     <summary><b>Real Stats</b></summary>
     <br>
